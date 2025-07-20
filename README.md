@@ -72,14 +72,15 @@ The **Yu-Gi-Oh Fusion Calculator** is a comprehensive Android application design
 ---
 
 ## 📱 Screenshots
+<img width="421" height="931" alt="image" src="https://github.com/user-attachments/assets/923123ef-7689-4191-a97e-d777e858a2e2" />
 
 
+<img width="423" height="933" alt="image" src="https://github.com/user-attachments/assets/3423a28d-2e6d-4c8e-aea2-d1012da3c9c1" />
 
+<img width="419" height="943" alt="image" src="https://github.com/user-attachments/assets/2ab7356a-eab1-45db-8f9b-5c7999e4a68d" />
 
-<img width="419" height="888" alt="image" src="https://github.com/user-attachments/assets/67e30fe6-b636-461d-8dee-94389971a354" />
-<img width="423" height="891" alt="image" src="https://github.com/user-attachments/assets/54f9c325-31a8-4da0-8c5a-c77905354a18" />
-<img width="415" height="889" alt="image" src="https://github.com/user-attachments/assets/0bf3533a-5b16-41a1-81f0-03962e1fcabd" />
-<img width="419" height="911" alt="image" src="https://github.com/user-attachments/assets/32cde6dc-8c48-48b0-9b54-12ea2b92947f" />
+<img width="423" height="931" alt="image" src="https://github.com/user-attachments/assets/7d12d07e-2061-4c30-970b-39ee5a27df90" />
+
 
 
 
