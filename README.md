@@ -1,4 +1,4 @@
-<img width="419" height="888" alt="image" src="https://github.com/user-attachments/assets/20dabacf-2b71-4689-ae4e-4a98e5ef54f1" /># 🃏 Yu-Gi-Oh Fusion Calculator
+
 
 **Version 1.5b** | An advanced Android app for calculating fusion combinations in Yu-Gi-Oh: Forbidden Memories
 
@@ -73,15 +73,15 @@ The **Yu-Gi-Oh Fusion Calculator** is a comprehensive Android application design
 
 ## 📱 Screenshots
 
-> *Screenshots will be added here showing the main interface, fusion results, and card library*
 
-```
+
+
 <img width="419" height="888" alt="image" src="https://github.com/user-attachments/assets/67e30fe6-b636-461d-8dee-94389971a354" />
 <img width="423" height="891" alt="image" src="https://github.com/user-attachments/assets/54f9c325-31a8-4da0-8c5a-c77905354a18" />
 <img width="415" height="889" alt="image" src="https://github.com/user-attachments/assets/0bf3533a-5b16-41a1-81f0-03962e1fcabd" />
 <img width="419" height="911" alt="image" src="https://github.com/user-attachments/assets/32cde6dc-8c48-48b0-9b54-12ea2b92947f" />
 
-```
+
 
 ---
 
