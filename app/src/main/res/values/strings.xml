@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YGO Fusion Calculator</string>
+    <string name="hand_title">Hand</string>
+    <string name="field_title">Field</string>
+    <string name="fusion_results_title">Possible Fusions</string>
+    <string name="add_card_button">Add Card to Hand</string>
+    <string name="perform_fusion_button">Perform Fusion</string>
+    <string name="remove_card_button">✕</string>
+    <string name="move_to_field_button">Move to Field</string>
+    <string name="empty_slot">Empty Slot</string>
+    <string name="search_card_title">Search for Card</string>
+    <string name="card_name_hint">Card Name</string>
+    <string name="card_id_hint">Card ID (0-721)</string>
+    <string name="search_button">Search</string>
+    <string name="search_results_title">Search Results</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="hand_full_message">Hand is full!</string>
+    <string name="field_full_message">Field is full!</string>
+    <string name="fusion_performed_message">Fusion performed: %s</string>
+    <string name="fusion_field_full_message">Field is full! Cannot perform fusion.</string>
+    <string name="invalid_card_id_message">Invalid card ID</string>
+    <string name="hand_status">Hand: %d/5</string>
+    <string name="field_status">Field: %d/5</string>
+</resources>

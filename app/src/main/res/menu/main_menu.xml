@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_library"
+        android:title="Library"
+        android:orderInCategory="100" />
+    <item
+        android:id="@+id/action_reset"
+        android:title="Reset All Cards"
+        android:orderInCategory="200" />
+    <item
+        android:id="@+id/action_toggle_reposition"
+        android:title="Auto Reposition: ON"
+        android:orderInCategory="300" />
+    <item
+        android:id="@+id/action_toggle_auto_close"
+        android:title="Auto Close Dialog: ON"
+        android:orderInCategory="400" />
+    <item
+        android:id="@+id/action_information"
+        android:title="Information"
+        android:orderInCategory="500" />
+</menu> 

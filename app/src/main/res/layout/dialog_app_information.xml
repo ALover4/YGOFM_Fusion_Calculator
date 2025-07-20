@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- App Title -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Yu-Gi-Oh Fusion Calculator"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Version -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Version 1.5b"
+            android:textSize="16sp"
+            android:textColor="@android:color/darker_gray"
+            android:gravity="center"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Core Features Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Core Features"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Advanced Fusion Calculator - Find all possible fusion combinations from your hand and field cards\n\n• Expandable Hand System - Start with 6 card slots, expandable up to 15 cards\n\n• Field Management - 5 dedicated field card slots for strategic placement\n\n• Complete Card Library - Over 700 Yu-Gi-Oh cards with detailed information\n\n• Drop Location Guide - Shows where each card can be obtained in the game\n\n• Direct &amp; Chained Fusions - Supports both simple 2-card fusions and complex chained combinations\n\n• Smart Sorting - Sort fusions by attack power or card count requirements\n\n• Card Memory System - Tracks your most used cards for better recommendations\n\n• Auto-Repositioning - Automatically organizes your hand for optimal space usage\n\n• Search &amp; Filter - Powerful search capabilities across the entire card database"
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Data Sources Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Data Sources &amp; References"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This app was built using comprehensive Yu-Gi-Oh game data including:\n\n• Official card database with 721+ cards\n• Complete fusion recipe combinations\n• Card type classifications and attributes\n• Drop location data from all duelists\n• Equipment and magic card information\n\nSpecial thanks to the Yu-Gi-Oh community for maintaining accurate card databases and fusion guides that made this calculator possible."
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Special Thanks Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Special Thanks"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Thanks to Kurogami2134 for providing valuable resources at:\nhttps://github.com/Kurogami2134/ygofm_fusioncalc\n\nYour contribution helped make this app possible!"
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Technical Info -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Technical Information"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Built with Java for Android\n• Uses JSON data format for card information\n• Implements efficient fusion algorithms\n• Local data storage for fast performance\n• Supports Android 5.0+ (API level 21+)"
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Close Button -->
+        <Button
+            android:id="@+id/close_information_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Close"
+            android:background="@android:color/holo_blue_light"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="8dp" />
+
+    </LinearLayout>
+</ScrollView> 
